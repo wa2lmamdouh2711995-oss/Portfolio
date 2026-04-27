@@ -15,7 +15,7 @@ const fallbackExperience: ExperienceItem[] = [
   {
     _id: "1",
     company: "CanGrow Group",
-    role: "Team Leader - Graphic Designer",
+    role: "Graphic Designer",
     duration: "Nov 2024 – Present",
     type: "Full Time",
   },
