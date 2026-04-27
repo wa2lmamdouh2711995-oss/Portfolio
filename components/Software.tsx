@@ -116,7 +116,7 @@ Tools & Software
           <motion.div
             className="pointer-events-none absolute inset-0 opacity-0 group-hover:opacity-100 transition duration-300"
             style={{
-              background: `radial-gradient(250px circle at ${smoothX.get()}px ${smoothY.get()}px, rgba(0, 153, 221, 0.2), transparent 60%)`,
+              background: `radial-gradient(250px circle at ${smoothX.get()}px ${smoothY.get()}px, rgba(250, 223, 161, 0.25), transparent 60%)`,
             }}
           />
 
