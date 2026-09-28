@@ -77,7 +77,7 @@ export default function Navbar() {
             className="text-2xl flex gap-2 items-center font-bold text-secondary tracking-tight hover:text-primary transition-colors duration-300"
           >
             <span className="relative aspect-[63/55] h-8">
-              <Image src="/Photos/Logo/icon.png" alt="" fill/>
+              <Image src="/Photos/About/icon.png" alt="Wael Mamdouh logo" fill/>
             </span>
             <span>Wael Mamdouh<span className="text-primary">.</span></span>
           </Link>

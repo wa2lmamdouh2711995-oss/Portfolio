@@ -54,7 +54,7 @@ export default function Footer() {
           >
 
            <span className="relative aspect-[63/55] h-8">
-              <Image src="/Photos/Logo/icon.png" alt="" fill/>
+              <Image src="/Photos/About/icon.png" alt="Wael Mamdouh logo" fill/>
             </span>
             <span className="text-xl font-bold text-secondary">
               Wael Mamdouh<span className="text-primary">.</span>
