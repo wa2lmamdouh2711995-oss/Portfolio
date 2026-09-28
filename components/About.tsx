@@ -45,7 +45,7 @@ export default function About({ data }: { data: AboutData | null }) {
               alt="Wael Mamdouh — Graphic Designer"
               fill
               priority
-              className="object-cover"
+              className="object-cover object-[65%_50%]"
               sizes="(max-width: 1024px) 100vw, 50vw"
             />
           </div>
